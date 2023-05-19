@@ -1,0 +1,14 @@
+body{
+  margin: 60px;
+  font-family: serif;
+  background-color: #f80;
+}
+h1{
+  color: #fff;
+  font-size: 50px;
+}
+p{
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.0;
+}
