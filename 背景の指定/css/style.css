@@ -1,0 +1,9 @@
+body{
+  background-image: url(hana.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+html, body{
+  margin: 0;
+  height: 100%;
+}

@@ -1,0 +1,7 @@
+body{
+  background-image: url(../css/images/hana.jpg);
+  background-repeat: no-repeat;
+  background-position:  right bottom;
+  background-attachment: fixed;
+  margin: 50px 200px 0 50px;
+}
